@@ -3,4 +3,4 @@
 ## Créditos
 
 Parte do código deste repositório foi obtida do repositório do Professor Fábio Nakano.
-Link para o repositório original: [https://github.com/FNakano/OAC1/tree/main/meuProcessador] (https://github.com/FNakano/OAC1/tree/main/meuProcessador)
+Link para o repositório original: [https://github.com/FNakano/OAC1/tree/main/meuProcessador](https://github.com/FNakano/OAC1/tree/main/meuProcessador)
