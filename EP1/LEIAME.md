@@ -2,5 +2,5 @@
 
 ## Créditos
 
-Parte do código deste repositório (driverEP1.h e driverEP1.c) foi obtida do repositório do Professor Fábio Nakano.
+Parte do código deste repositório ("driverEP1.h" e "driverEP1.c") foi obtida do repositório do Professor Fábio Nakano.
 Link para o repositório original: [https://github.com/FNakano/OAC1/tree/main/meuProcessador](https://github.com/FNakano/OAC1/tree/main/meuProcessador)
