@@ -1,8 +1,3 @@
-/*
-Nome: Nazivon Santos do Nascimento
-No USP: 10266548
-EP1 - OAC 1
-*/
 #include "driverEP1.h"
 #include <stdio.h>
 
